@@ -1,5 +1,20 @@
 /* add code here to make your image 300px square */
+body {
+    background-color: rgb(157, 75, 4);
+}
 
+img {
+    height: 300px;
+}
 /* add code here to change the color and font family of your name/title */
+.titlestyle {
+    color: rgb(218, 242, 0);
+    font-family: Arial, Helvetica, sans-serif;
 
+}
+
+.liststyle {
+    color: rgb(246, 246, 246);
+    font-family: Arial, Helvetica, sans-serif;
+}
 /* Bonus: change the color of your list elements */
